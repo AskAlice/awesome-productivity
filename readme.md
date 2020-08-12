@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Awesome Productivity ![Awesome](https://awesome.re)](#awesome-productivity-img-src%22httpsawesomere%22-alt%22awesome%22)
   - [Contents](#contents)
   - [Windows Software](#windows-software)
     - [Media](#media)
